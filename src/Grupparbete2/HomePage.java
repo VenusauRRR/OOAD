@@ -11,7 +11,7 @@ public class HomePage extends ExecutePageCreator{
     public void execute() {
         System.out.println("welcome to AVEKBank" +
                 "\n1. About Bank" +
-                "\n2. Bank opening time and address" +
+//                "\n2. Bank opening time and address" +
                 "\n3. My accounts" +
                 "\n0. log out");
 
